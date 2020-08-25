@@ -1,16 +1,16 @@
 [submodule "cicada-engine"]
 	path = cicada-engine
-	url = https://github.com/efficient/cicada-engine.git
+	url = https://github.com/jnmt/cicada-engine.git
 	branch = sigmod2017
 [submodule "DBx1000"]
 	path = DBx1000
-	url = https://github.com/efficient/cicada-exp-sigmod2017-DBx1000.git
+	url = https://github.com/jnmt/cicada-exp-sigmod2017-DBx1000.git
 [submodule "silo"]
 	path = silo
-	url = https://github.com/efficient/cicada-exp-sigmod2017-silo.git
+	url = https://github.com/jnmt/cicada-exp-sigmod2017-silo.git
 [submodule "ermia"]
 	path = ermia
-	url = https://github.com/efficient/cicada-exp-sigmod2017-ermia.git
+	url = https://github.com/jnmt/cicada-exp-sigmod2017-ermia.git
 [submodule "foedus_code"]
 	path = foedus_code
-	url = https://github.com/efficient/cicada-exp-sigmod2017-foedus_code.git
+	url = https://github.com/jnmt/cicada-exp-sigmod2017-foedus_code.git
